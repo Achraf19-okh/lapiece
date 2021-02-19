@@ -13,10 +13,15 @@ Les technologies utilisés :
  - JWT/WebAPI
  - Bootstrap
  
+
+la page d'acceuil :
  
- la page d'acceuil :
 ![photo](https://user-images.githubusercontent.com/61116467/108531337-df4f0e00-72d6-11eb-9a2e-9e40c13608dd.png)
 
 La page "Comment acheter"
 
 ![page1](https://user-images.githubusercontent.com/61116467/108533129-ec6cfc80-72d8-11eb-8c88-c8fd81c5dd15.png)
+
+Trouver un atelier : 
+
+![page2](https://user-images.githubusercontent.com/61116467/108533189-01499000-72d9-11eb-9c7d-0586e76116ea.png)
