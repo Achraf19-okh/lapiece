@@ -34,7 +34,7 @@ Recherche d'un produit :
 
 ![page4](https://user-images.githubusercontent.com/61116467/108533293-1aead780-72d9-11eb-8cfa-17d1224a719a.png)
 
-Consultation d'un produit (vérfification si le produit existe en stock ou non) 
+Consultation d'un produit (vérification si le produit existe en stock ou non) 
 
 ![page5](https://user-images.githubusercontent.com/61116467/108533311-1e7e5e80-72d9-11eb-9257-380417051819.png)
 
